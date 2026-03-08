@@ -1,11 +1,10 @@
 # SpineIDS Clinical ML
 
 **Part 1 of 3** · AI-Based Differential Diagnosis of Spinal Infections  
-Doctoral dissertation · Ningxia Medical University
 
 ---
 
-## Overview
+##概述
 
 This repository contains the clinical-feature machine learning component of a
 three-part study on automated differential diagnosis of spinal infections.  The
@@ -120,7 +119,7 @@ See `QUICK_START.md` for extended examples and configuration options.
 Prediction CSV files follow a fixed schema shared with the CNN and multimodal
 fusion pipelines:
 
-| Column | Description |
+| Column |描述|
 |--------|-------------|
 | `RealPID` | Normalised patient ID (`{STB\|BS\|PS}_{0000}`) |
 | `GT` | Ground-truth class index (0 = STB, 1 = BS, 2 = PS) |
