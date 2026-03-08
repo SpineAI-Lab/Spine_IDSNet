@@ -4,7 +4,7 @@
 
 ---
 
-##概述
+##Overview
 
 This repository contains the clinical-feature machine learning component of a
 three-part study on automated differential diagnosis of spinal infections.  The
